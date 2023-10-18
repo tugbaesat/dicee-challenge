@@ -6,7 +6,7 @@ Dicee is a fun and simple app that lets two players engage in a thrilling dice g
 
 ## Live Demo of the Project: 📹
 
-[Dicee](https://drum-kit-tugbaesat.vercel.app)
+[Dicee](https://dicee-challenge-tugbaesat.vercel.app)
 
 ## Technologies, Frameworks and Libraries: ☕️ 🐍 ⚛️
 - HTML
