@@ -16,7 +16,8 @@ Dicee is a fun and simple app that lets two players engage in a thrilling dice g
 
 ## Screenshots: 📷
 
-![image](https://github.com/tugbaesat/drum-kit/assets/114342008/18a90279-aada-4d60-b31c-815ec3a1e133)
+![image](https://github.com/tugbaesat/dicee-challenge/assets/114342008/5b00f9a6-00ff-445b-94c5-f189729474ca)
+
 
 ## Authors: 💻
 [@tugbaesat](https://github.com/tugbaesat)
